@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rC+1smoLfBTzkS8b5VLaL7Ni7lVan2k4JfCtL8Ls+XXWGs4uac9lE9BNL65WHyHq97RFrU5/w05Fh4pjvzoSoA==",
+  "success": true,
+  "projectFilePath": "/media/hdd/code/rpTgBot/rpTgBot.csproj",
+  "expectedPackageFiles": [
+    "/home/desktop/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/desktop/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/home/desktop/.nuget/packages/telegram.bot/17.0.0/telegram.bot.17.0.0.nupkg.sha512",
+    "/home/desktop/.nuget/packages/telegram.bot.extensions.polling/1.0.2/telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "/home/desktop/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
