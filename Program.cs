@@ -36,7 +36,7 @@ namespace RpTgBot
     }
     class Program
     {
-        static ITelegramBotClient bot = new TelegramBotClient("5588675170:AAGTX_OfDlO89uYqvwY7YBhAvniaMHD_TvA");//5190518463:AAGNE1wPN3c9-suWfXGMgq8prQ9VZaAIEuk
+        static ITelegramBotClient bot = new TelegramBotClient("token");
         public static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
             // Некоторые действия
